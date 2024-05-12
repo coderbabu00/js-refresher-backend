@@ -1,5 +1,5 @@
 // Var const and let
-  var c = 30;
+  var c = 50;
 // var=> Which can be changed further.
 // const=> Which can not be changed.
 // const a =10;
